@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-15T16:17:36 IST" name="Suite" finished-at="2022-01-15T16:17:36 IST" duration-ms="93">
+    <groups>
+    </groups>
+    <test started-at="2022-01-15T16:17:36 IST" name="Test" finished-at="2022-01-15T16:17:36 IST" duration-ms="93">
+      <class name="rahulshettyacademy.RESTAPITest">
+        <test-method signature="loginRESTAPI()[pri:0, instance:rahulshettyacademy.RESTAPITest@47d9a273]" started-at="2022-01-15T16:17:36 IST" name="loginRESTAPI" finished-at="2022-01-15T16:17:36 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginRESTAPI -->
+        <test-method signature="logoutRESTAPI()[pri:0, instance:rahulshettyacademy.RESTAPITest@47d9a273]" started-at="2022-01-15T16:17:36 IST" name="logoutRESTAPI" finished-at="2022-01-15T16:17:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutRESTAPI -->
+      </class> <!-- rahulshettyacademy.RESTAPITest -->
+      <class name="rahulshettyacademy.SeleniumTest">
+        <test-method signature="loginSelenium()[pri:0, instance:rahulshettyacademy.SeleniumTest@550dbc7a]" started-at="2022-01-15T16:17:36 IST" name="loginSelenium" finished-at="2022-01-15T16:17:36 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSelenium -->
+        <test-method signature="logoutSelenium()[pri:0, instance:rahulshettyacademy.SeleniumTest@550dbc7a]" started-at="2022-01-15T16:17:36 IST" name="logoutSelenium" finished-at="2022-01-15T16:17:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutSelenium -->
+      </class> <!-- rahulshettyacademy.SeleniumTest -->
+      <class name="rahulshettyacademy.AppiumTest">
+        <test-method signature="loginAppium()[pri:0, instance:rahulshettyacademy.AppiumTest@4b8ee4de]" started-at="2022-01-15T16:17:36 IST" name="loginAppium" finished-at="2022-01-15T16:17:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAppium -->
+        <test-method signature="logoutAppium()[pri:0, instance:rahulshettyacademy.AppiumTest@4b8ee4de]" started-at="2022-01-15T16:17:36 IST" name="logoutAppium" finished-at="2022-01-15T16:17:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutAppium -->
+      </class> <!-- rahulshettyacademy.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
