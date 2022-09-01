@@ -8,11 +8,21 @@ public class AppiumTest {
 	public void loginAppium()
 	{
 		System.out.println("This is loginAppium method");
+		System.out.println("This is loginAppium method");
+		System.out.println("This is loginAppium method");
+		System.out.println("This is loginAppium method");
+		System.out.println("This is loginAppium method");
+		System.out.println("This is loginAppium method");
 	}
 	
 	@Test
 	public void logoutAppium()
 	{
+		System.out.println("This is logoutAppium method");
+		System.out.println("This is logoutAppium method");
+		System.out.println("This is logoutAppium method");
+		System.out.println("This is logoutAppium method");
+		System.out.println("This is logoutAppium method");
 		System.out.println("This is logoutAppium method");
 	}
 	

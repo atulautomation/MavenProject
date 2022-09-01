@@ -8,11 +8,21 @@ public class RESTAPITest {
 	public void loginRESTAPI()
 	{
 		System.out.println("This is loginRESTAPI method");
+		System.out.println("This is loginRESTAPI method");
+		System.out.println("This is loginRESTAPI method");
+		System.out.println("This is loginRESTAPI method");
+		System.out.println("This is loginRESTAPI method");
+		System.out.println("This is loginRESTAPI method");
 	}
 	
 	@Test
 	public void logoutRESTAPI()
 	{
+		System.out.println("This is logoutRESTAPI method");
+		System.out.println("This is logoutRESTAPI method");
+		System.out.println("This is logoutRESTAPI method");
+		System.out.println("This is logoutRESTAPI method");
+		System.out.println("This is logoutRESTAPI method");
 		System.out.println("This is logoutRESTAPI method");
 	}
 
