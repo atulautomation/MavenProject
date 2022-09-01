@@ -11,6 +11,12 @@ public class SeleniumTest {
 	}
 	
 	@Test
+	public void forgotpwdSelenium()
+	{
+		System.out.println("This is forgotpwdSelenium method");
+	}
+	
+	@Test
 	public void logoutSelenium()
 	{
 		System.out.println("This is logoutSelenium method");
